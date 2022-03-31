@@ -1,0 +1,32 @@
+.actionButton {
+  background-color: #f9aa5f;
+  border: none;
+  color: white;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: 800;
+}
+
+.usersSortTab {
+  display: flex;
+  justify-content: space-between;
+  width: 340px;
+  margin: 40px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loadingIcon {
+  width: 50px;
+  height: 50px;
+  margin: 300px auto;
+}
